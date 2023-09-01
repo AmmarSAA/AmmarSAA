@@ -7,6 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarsaa)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ammarsaa)
+<!-- [![UIVerse](https://img.shields.io/badge/UIVerse-Logo?logo=data:image/png;base64,https%3A%2F%2Fuiverse.io%2Fbuild%2F_assets%2Flogo-OR7QQX33.svg)](https://uiverse.com/ammarsaa) -->
+<a href="https://uiverse.io/profile/ammarsaa" target="_blank"><img src="https://img.shields.io/badge/Uiverse.IO-%20-blueviolet" target="_blank">
 
 # 💻 Tech Stack
 

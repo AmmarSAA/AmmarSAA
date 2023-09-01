@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarsaa)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ammarsaa)
-[![UIVerse](https://img.shields.io/badge/UIverse.IO-blueviolet)](https://uiverse.com/ammarsaa)
+[![UIVerse](https://img.shields.io/badge/UIverse.IO-blueviolet)](https://uiverse.io/ammarsaa)
 
 # 💻 Tech Stack
 

@@ -72,9 +72,15 @@
 ### ✍️ Random Dev Quote
 
 <div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+</div>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
+<div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=ammarsaa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 

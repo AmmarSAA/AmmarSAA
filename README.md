@@ -1,7 +1,7 @@
 <img src="banner.png" />
 
 <h1 align="center">Hi 👋, I'm Syed Ammar Ahmed</h1>
-<h3 align="center">A Creative Super Hero with the Skill set of Design & Development</h3>
+<h3 align="center">A Creative Super Hero with the Skill set of Development & Design</h3>
 
 ## 🌐 Socials
 

@@ -1,4 +1,4 @@
-<img src="banner.png" />
+![banner](https://github.com/ammarsaa/Malwarebytes-Premium-Bypass/assets/63854344/08ea78c7-d993-43d4-b9b3-05917ba25521)
 
 <h1 align="center">Hi 👋, I'm Syed Ammar Ahmed</h1>
 <h3 align="center">A Creative Super Hero with the Skill set of Development & Design</h3>

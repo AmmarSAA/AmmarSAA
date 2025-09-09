@@ -6,7 +6,8 @@
 ## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-%23000000?style=flat&logo=x&logoColor=white)](https://x.com/ammar_saa14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarsaa) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ammarsaa)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/ammarsaa](https://www.youtube.com/@Ammar_SAA14))
 
 <!--[![UIVerse](https://img.shields.io/badge/UIverse.IO-blueviolet)](https://uiverse.io/ammarsaa)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com/ammarsaa)-->

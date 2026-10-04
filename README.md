@@ -21,10 +21,10 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [Hisaab Rakho 2.0](https://github.com/AmmarSAA/Hisaab-Rakho-2.0) | Personal finance app: track income, expenses and balance | Flutter, GetX |
-| [Hisaab Rakho API](https://github.com/AmmarSAA/Hisaab-Rakho-API) | REST backend for Hisaab Rakho 2.0 | Node.js, Express, MongoDB |
+| [Hisaab Rakho API](https://github.com/AmmarSAA/Hisaab-Rakho-API) | REST backend for Hisaab Rakho 2.0 | Node.js, json-server, Vercel |
 | [Flash Games Directory](https://github.com/AmmarSAA/Flash-Games-Directory) | Preserving the legacy of Adobe Flash games (45 stars) | HTML, JavaScript |
 | [ShopSmart](https://github.com/AmmarSAA/ShopSmart) | E-commerce platform | MERN |
-| [Pharmacy POS](https://github.com/AmmarSAA/Pharmacy-POS) | Point-of-sale system for pharmacies | JavaScript |
+| [Pharmacy POS](https://github.com/AmmarSAA/Pharmacy-POS) | Pharmacy billing and inventory: batch and expiry stock, prescriptions, tills, supplier credit, AI assistant | Node.js, Express, MongoDB, Electron |
 | [SAA Duplex Print](https://github.com/AmmarSAA/SAA-Duplex-Print) | Manual duplex printing for single-sided printers | Python |
 
 ## Tech Stack

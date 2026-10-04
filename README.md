@@ -4,12 +4,17 @@
 <h3 align="center">Full-Stack Developer · Flutter · React · Node.js · WordPress</h3>
 
 <p align="center">
-  CTO @ <b>Precision Tech Insights</b> · Co-founder @ <b>ITovio</b> · Software Developer @ <b>ITFellow Solution Network</b><br/>
+  Founder &amp; CEO @ <a href="https://itecsia.com"><b>iTecsia</b></a> · Software Developer @ <b>ITFellow Solution Network</b><br/>
   Karachi, Pakistan
 </p>
 
 <p align="center">
+  I build web and mobile products end to end. At iTecsia we make web and mobile apps, AI chatbots and automation, ERP/CRM systems and cloud infrastructure for businesses.
+</p>
+
+<p align="center">
   <a href="https://ammarsaa.com"><img src="https://img.shields.io/badge/Portfolio-ammarsaa.com-111111?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://itecsia.com"><img src="https://img.shields.io/badge/iTecsia-itecsia.com-0B5FFF?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ammarsaa"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="https://x.com/ammar_saa14"><img src="https://img.shields.io/badge/X-%23000000?style=flat&logo=x&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Ammar_SAA14"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
@@ -24,7 +29,7 @@
 | [Hisaab Rakho API](https://github.com/AmmarSAA/Hisaab-Rakho-API) | REST backend for Hisaab Rakho 2.0 | Node.js, json-server, Vercel |
 | [Flash Games Directory](https://github.com/AmmarSAA/Flash-Games-Directory) | Preserving the legacy of Adobe Flash games (45 stars) | HTML, JavaScript |
 | [ShopSmart](https://github.com/AmmarSAA/ShopSmart) | E-commerce platform | MERN |
-| [Pharmacy POS](https://github.com/AmmarSAA/Pharmacy-POS) | Pharmacy billing and inventory: batch and expiry stock, prescriptions, tills, supplier credit, AI assistant | Node.js, Express, MongoDB, Electron |
+| [Pharmacy POS](https://github.com/AmmarSAA/Pharmacy-POS) | Pharmacy billing and inventory: batch and expiry stock, prescription and controlled-drug rules, tills, supplier credit, AI assistant. Web, desktop and Android | Node.js, Express, MongoDB, Electron |
 | [SAA Duplex Print](https://github.com/AmmarSAA/SAA-Duplex-Print) | Manual duplex printing for single-sided printers | Python |
 
 ## Tech Stack
@@ -66,7 +71,7 @@
 
 - Building **Hisaab Rakho 3.0**, a fuller budgeting app with wallets, budgets and reports
 - Writing about AI-agent security and software engineering on [LinkedIn](https://linkedin.com/in/ammarsaa)
-- Open to full-time roles, freelance projects and collaborations
+- Open to projects, partnerships and full-time opportunities
 
 ## GitHub Stats
 
